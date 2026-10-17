@@ -1,0 +1,110 @@
+[
+  {
+    "FileName": "PANA1051.JPG",
+    "Model": "DC-S1M2",
+    "LensModel": "28-105mm F2.8 DG DN | Art 024",
+    "ExposureTime": "1/320",
+    "FNumber": 2.8,
+    "ISO": 100,
+    "FocalLength": "31.0 mm",
+    "PhotoStyle": "Standard or Custom",
+    "LUT1Name": "CLASSIC Neg LOG3.cube",
+    "LUT1Opacity": 100
+  },
+  {
+    "FileName": "PANA1038.JPG",
+    "Model": "DC-S1M2",
+    "LensModel": "28-105mm F2.8 DG DN | Art 024",
+    "ExposureTime": "1/500",
+    "FNumber": 2.8,
+    "ISO": 100,
+    "FocalLength": "67.0 mm",
+    "PhotoStyle": "Standard or Custom",
+    "LUT1Name": "CLASSIC Neg LOG3.cube",
+    "LUT1Opacity": 100
+  },
+  {
+    "FileName": "PANA1107.JPG",
+    "Model": "DC-S1M2",
+    "LensModel": "28-105mm F2.8 DG DN | Art 024",
+    "ExposureTime": "1/1600",
+    "FNumber": 2.8,
+    "ISO": 100,
+    "FocalLength": "105.0 mm",
+    "PhotoStyle": "Standard or Custom",
+    "LUT1Name": "CLASSIC Neg LOG3.cube",
+    "LUT1Opacity": 100
+  },
+  {
+    "FileName": "PANA1058.JPG",
+    "Model": "DC-S1M2",
+    "LensModel": "28-105mm F2.8 DG DN | Art 024",
+    "ExposureTime": "1/200",
+    "FNumber": 2.8,
+    "ISO": 125,
+    "FocalLength": "30.0 mm",
+    "PhotoStyle": "Standard or Custom",
+    "LUT1Name": "CLASSIC Neg LOG3.cube",
+    "LUT1Opacity": 100
+  },
+  {
+    "FileName": "PANA1240.JPG",
+    "Model": "DC-S1M2",
+    "LensModel": "LUMIX S 24-60/F2.8",
+    "ExposureTime": "1/800",
+    "FNumber": 2.8,
+    "ISO": 100,
+    "FocalLength": "60.0 mm",
+    "PhotoStyle": "Standard or Custom",
+    "LUT1Name": "CLASSIC CHROME LOG3.cube",
+    "LUT1Opacity": 100
+  },
+  {
+    "FileName": "PANA1248.JPG",
+    "Model": "DC-S1M2",
+    "LensModel": "LUMIX S 24-60/F2.8",
+    "ExposureTime": "1/800",
+    "FNumber": 2.8,
+    "ISO": 100,
+    "FocalLength": "31.0 mm",
+    "PhotoStyle": "Standard or Custom",
+    "LUT1Name": "CLASSIC CHROME LOG3.cube",
+    "LUT1Opacity": 100
+  },
+  {
+    "FileName": "PANA1283.JPG",
+    "Model": "DC-S1M2",
+    "LensModel": "LUMIX S 24-60/F2.8",
+    "ExposureTime": "1/200",
+    "FNumber": 2.8,
+    "ISO": 640,
+    "FocalLength": "24.0 mm",
+    "PhotoStyle": "Standard or Custom",
+    "LUT1Name": "CLASSIC CHROME LOG3.cube",
+    "LUT1Opacity": 100
+  },
+  {
+    "FileName": "PANA3494.JPG",
+    "Model": "DC-S1M2",
+    "LensModel": "85mm F1.4 DG DN | Art 020",
+    "ExposureTime": "1/6400",
+    "FNumber": 1.4,
+    "ISO": 100,
+    "FocalLength": "85.0 mm",
+    "PhotoStyle": "Standard or Custom",
+    "LUT1Name": "CLASSIC CHROME LOG3.cube",
+    "LUT1Opacity": 100
+  },
+  {
+    "FileName": "PANA3515.JPG",
+    "Model": "DC-S1M2",
+    "LensModel": "85mm F1.4 DG DN | Art 020",
+    "ExposureTime": "1/3200",
+    "FNumber": 1.4,
+    "ISO": 100,
+    "FocalLength": "85.0 mm",
+    "PhotoStyle": "Standard or Custom",
+    "LUT1Name": "CLASSIC CHROME LOG3.cube",
+    "LUT1Opacity": 100
+  }
+]
